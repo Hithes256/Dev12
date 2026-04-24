@@ -9,7 +9,7 @@ public class CalTest {
 
     @Test
     public void addTest() {
-        assertEquals(10,c.add(5,5));
+        assertEquals(100,c.add(5,5));
     }
 
     @Test
